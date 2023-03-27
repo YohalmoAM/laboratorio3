@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="money_quantity_dimension">36dp</dimen>
+    <dimen name="money_count_dimension">48dp</dimen>
+    <dimen name="coin_width">149dp</dimen>
+    <dimen name="coin_height">129dp</dimen>
+</resources>
